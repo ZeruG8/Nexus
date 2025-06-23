@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Universo Extendido" tvg-logo="" group-title="DC Studios", Universo Extendido
+https://raw.githubusercontent.com/ZeruG8/Nexus/main/Nexus+/DC Studios/Universo Extendido/Universo Extendido.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Universo DC" tvg-logo="" group-title="DC Studios", Universo DC
+https://raw.githubusercontent.com/ZeruG8/Nexus/main/Nexus+/DC Studios/Universo DC/Universo DC.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Series" tvg-logo="" group-title="DC Studios", Series
+https://raw.githubusercontent.com/ZeruG8/Nexus/main/Nexus+/DC Studios/Series/Series.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Otros" tvg-logo="" group-title="DC Studios", Otros
+https://raw.githubusercontent.com/ZeruG8/Nexus/main/Nexus+/DC Studios/Otros/Otros.m3u

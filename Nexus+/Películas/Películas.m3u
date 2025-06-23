@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Acción" tvg-logo="" group-title="Películas", Acción
+https://raw.githubusercontent.com/ZeruG8/Nexus/main/Nexus+/Películas/Acción/Acción.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Animación" tvg-logo="" group-title="Películas", Animación
+https://raw.githubusercontent.com/ZeruG8/Nexus/main/Nexus+/Películas/Animación/Animación.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Aventura" tvg-logo="" group-title="Películas", Aventura
+https://raw.githubusercontent.com/ZeruG8/Nexus/main/Nexus+/Películas/Aventura/Aventura.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Ciencia Ficción" tvg-logo="" group-title="Películas", Ciencia Ficción
+https://raw.githubusercontent.com/ZeruG8/Nexus/main/Nexus+/Películas/Ciencia Ficción/Ciencia Ficción.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Comedia" tvg-logo="" group-title="Películas", Comedia
+https://raw.githubusercontent.com/ZeruG8/Nexus/main/Nexus+/Películas/Comedia/Comedia.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Documental" tvg-logo="" group-title="Películas", Documental
+https://raw.githubusercontent.com/ZeruG8/Nexus/main/Nexus+/Películas/Documental/Documental.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Drama" tvg-logo="" group-title="Películas", Drama
+https://raw.githubusercontent.com/ZeruG8/Nexus/main/Nexus+/Películas/Drama/Drama.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Fantasía" tvg-logo="" group-title="Películas", Fantasía
+https://raw.githubusercontent.com/ZeruG8/Nexus/main/Nexus+/Películas/Fantasía/Fantasía.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Romance" tvg-logo="" group-title="Películas", Romance
+https://raw.githubusercontent.com/ZeruG8/Nexus/main/Nexus+/Películas/Romance/Romance.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Suspenso" tvg-logo="" group-title="Películas", Suspenso
+https://raw.githubusercontent.com/ZeruG8/Nexus/main/Nexus+/Películas/Suspenso/Suspenso.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Terror" tvg-logo="" group-title="Películas", Terror
+https://raw.githubusercontent.com/ZeruG8/Nexus/main/Nexus+/Películas/Terror/Terror.m3u
