@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Peliculas" tvg-logo="https://i.ibb.co/QFSc1hpK/file-0000000095c861f886f0100b6f2392db.png" group-title="Nexus", Peliculas
+#EXTINF:-1 tvg-id="" tvg-name="Peliculas" tvg-logo="https://i.ibb.co/QFSc1hpK/Peliculas.png" group-title="Nexus", Peliculas
 https://raw.githubusercontent.com/ZeruG8/Nexus/main/Nexus/Peliculas/Peliculas.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Series" tvg-logo="" group-title="Nexus", Series
 https://raw.githubusercontent.com/ZeruG8/Nexus/main/Nexus/Series/Series.m3u
