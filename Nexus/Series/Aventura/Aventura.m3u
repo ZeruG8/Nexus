@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Ejemplo" tvg-logo="" group-title="Aventura", Ejemplo
+http://example.com/Aventura.m3u8
