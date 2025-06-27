@@ -3,7 +3,7 @@
 https://raw.githubusercontent.com/ZeruG8/Nexus/main/Nexus/Colecciones/Marvel_Studios/Saga_Del_Infinito/Saga_Del_Infinito.m3u
 #EXTINF:-1 tvg-id="Saga_Del_Multiverso" tvg-name="Saga_Del_Multiverso" tvg-logo="https://i.ibb.co/Q3zSRf2Q/Multiverso.jpg" group-title="Marvel_Studios", Saga_Del_Multiverso
 https://raw.githubusercontent.com/ZeruG8/Nexus/main/Nexus/Colecciones/Marvel_Studios/Saga_Del_Multiverso/Saga_Del_Multiverso.m3u
-#EXTINF:-1 tvg-id="Series" tvg-name="Series" tvg-logo="" group-title="Marvel_Studios", Series
+#EXTINF:-1 tvg-id="Series" tvg-name="Series" tvg-logo="https://i.ibb.co/fzsLsmVW/Series-Marvel.jpg" group-title="Marvel_Studios", Series
 https://raw.githubusercontent.com/ZeruG8/Nexus/main/Nexus/Colecciones/Marvel_Studios/Series/Series.m3u
 #EXTINF:-1 tvg-id="Otros" tvg-name="Otros" tvg-logo="" group-title="Marvel_Studios", Otros
 https://raw.githubusercontent.com/ZeruG8/Nexus/main/Nexus/Colecciones/Marvel_Studios/Otros/Otros.m3u
