@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Universo_Extendido" tvg-name="Universo_Extendido" tvg-logo="https://i.ibb.co/DfjQvmVP/Univero-Extendido.jpg" group-title="DC_Studios", Universo_Extendido
+#EXTINF:-1 tvg-id="Universo_Extendido" tvg-name="Universo_Extendido" tvg-logo="https://i.ibb.co/DfjQvmVP/Univero-Extendido.jpg" group-title="DC_Studios", Universo Extendido
 https://raw.githubusercontent.com/ZeruG8/Nexus/main/Nexus/Colecciones/DC_Studios/Universo_Extendido/Universo_Extendido.m3u
-#EXTINF:-1 tvg-id="Universo_DC" tvg-name="Universo_DC" tvg-logo="https://i.ibb.co/4Rs15pb9/Universe.jpg" group-title="DC_Studios", Universo_DC
+#EXTINF:-1 tvg-id="Universo_DC" tvg-name="Universo_DC" tvg-logo="https://i.ibb.co/4Rs15pb9/Universe.jpg" group-title="DC_Studios", Universo DC
 https://raw.githubusercontent.com/ZeruG8/Nexus/main/Nexus/Colecciones/DC_Studios/Universo_DC/Universo_DC.m3u
 #EXTINF:-1 tvg-id="Series" tvg-name="Series" tvg-logo="https://i.ibb.co/sdVVXz3M/DC-Series.jpg" group-title="DC_Studios", Series
 https://raw.githubusercontent.com/ZeruG8/Nexus/main/Nexus/Colecciones/DC_Studios/Series/Series.m3u
