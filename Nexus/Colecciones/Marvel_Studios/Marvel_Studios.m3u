@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Saga_Del_Infinito" tvg-name="Saga_Del_Infinito" tvg-logo="https://i.ibb.co/VWv2z0T6/Infinito.jpg" group-title="Marvel_Studios", Saga del Infinito
+#EXTINF:-1 tvg-id="Saga_Del_Infinito" tvg-name="Saga_Del_Infinito" tvg-logo="https://i.ibb.co/VWv2z0T6/Infinito.jpg" group-title="", Saga del Infinito
 https://raw.githubusercontent.com/ZeruG8/Nexus/main/Nexus/Colecciones/Marvel_Studios/Saga_Del_Infinito/Saga_Del_Infinito.m3u
 #EXTINF:-1 tvg-id="Saga_Del_Multiverso" tvg-name="Saga_Del_Multiverso" tvg-logo="https://i.ibb.co/Q3zSRf2Q/Multiverso.jpg", Saga del Multiverso
 https://raw.githubusercontent.com/ZeruG8/Nexus/main/Nexus/Colecciones/Marvel_Studios/Saga_Del_Multiverso/Saga_Del_Multiverso.m3u
