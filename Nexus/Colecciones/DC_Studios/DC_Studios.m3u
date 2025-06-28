@@ -5,5 +5,5 @@ https://raw.githubusercontent.com/ZeruG8/Nexus/main/Nexus/Colecciones/DC_Studios
 https://raw.githubusercontent.com/ZeruG8/Nexus/main/Nexus/Colecciones/DC_Studios/Universo_DC/Universo_DC.m3u
 #EXTINF:-1 tvg-id="Series" tvg-name="Series" tvg-logo="https://i.ibb.co/sdVVXz3M/DC-Series.jpg" group-title="DC_Studios", Series
 https://raw.githubusercontent.com/ZeruG8/Nexus/main/Nexus/Colecciones/DC_Studios/Series/Series.m3u
-#EXTINF:-1 tvg-id="Otros" tvg-name="Otros" tvg-logo="" group-title="DC_Studios", Otros
+#EXTINF:-1 tvg-id="Otros" tvg-name="Otros" tvg-logo="https://i.ibb.co/JWzQHjCK/DC-Otros.jpg" group-title="DC_Studios", Otros
 https://raw.githubusercontent.com/ZeruG8/Nexus/main/Nexus/Colecciones/DC_Studios/Otros/Otros.m3u
