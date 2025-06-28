@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="DC_Studios" tvg-name="DC_Studios" tvg-logo="https://i.ibb.co/rKnj694T/DC-Studios.jpg" group-title="Colecciones", DC_Studios
+#EXTINF:-1 tvg-id="DC_Studios" tvg-name="DC_Studios" tvg-logo="https://i.ibb.co/rKnj694T/DC-Studios.jpg" group-title="Colecciones", DC Studios
 https://raw.githubusercontent.com/ZeruG8/Nexus/main/Nexus/Colecciones/DC_Studios/DC_Studios.m3u
-#EXTINF:-1 tvg-id="Marvel_Studios" tvg-name="Marvel_Studios" tvg-logo="https://i.ibb.co/VW3RXbhG/Marvel-Studios.jpg" group-title="Colecciones", Marvel_Studios
+#EXTINF:-1 tvg-id="Marvel_Studios" tvg-name="Marvel_Studios" tvg-logo="https://i.ibb.co/VW3RXbhG/Marvel-Studios.jpg" group-title="Colecciones", Marvel Studios
 https://raw.githubusercontent.com/ZeruG8/Nexus/main/Nexus/Colecciones/Marvel_Studios/Marvel_Studios.m3u
