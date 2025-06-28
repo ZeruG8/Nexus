@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Saga_Del_Infinito" tvg-name="Saga_Del_Infinito" tvg-logo="https://i.ibb.co/VWv2z0T6/Infinito.jpg" group-title="Marvel_Studios", Saga del Infinito
+#EXTINF:-1 tvg-id="Saga_Del_Infinito" tvg-name="Saga_Del_Infinito" tvg-logo="https://i.ibb.co/VWv2z0T6/Infinito.jpg", Saga del Infinito
 https://raw.githubusercontent.com/ZeruG8/Nexus/main/Nexus/Colecciones/Marvel_Studios/Saga_Del_Infinito/Saga_Del_Infinito.m3u
-#EXTINF:-1 tvg-id="Saga_Del_Multiverso" tvg-name="Saga_Del_Multiverso" tvg-logo="https://i.ibb.co/Q3zSRf2Q/Multiverso.jpg" group-title="Marvel_Studios", Saga del Multiverso
+#EXTINF:-1 tvg-id="Saga_Del_Multiverso" tvg-name="Saga_Del_Multiverso" tvg-logo="https://i.ibb.co/Q3zSRf2Q/Multiverso.jpg", Saga del Multiverso
 https://raw.githubusercontent.com/ZeruG8/Nexus/main/Nexus/Colecciones/Marvel_Studios/Saga_Del_Multiverso/Saga_Del_Multiverso.m3u
-#EXTINF:-1 tvg-id="Series" tvg-name="Series" tvg-logo="https://i.ibb.co/xKLr5XKn/Marvel-Series.jpg" group-title="Marvel_Studios", Series
+#EXTINF:-1 tvg-id="Series" tvg-name="Series" tvg-logo="https://i.ibb.co/xKLr5XKn/Marvel-Series.jpg", Series
 https://raw.githubusercontent.com/ZeruG8/Nexus/main/Nexus/Colecciones/Marvel_Studios/Series/Series.m3u
-#EXTINF:-1 tvg-id="Otros" tvg-name="Otros" tvg-logo="https://i.ibb.co/JRNSQS3q/Marvel-Otros.jpg" group-title="Marvel_Studios", Otros
+#EXTINF:-1 tvg-id="Otros" tvg-name="Otros" tvg-logo="https://i.ibb.co/JRNSQS3q/Marvel-Otros.jpg", Otros
 https://raw.githubusercontent.com/ZeruG8/Nexus/main/Nexus/Colecciones/Marvel_Studios/Otros/Otros.m3u
