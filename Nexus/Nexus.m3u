@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Peliculas" tvg-name="Peliculas" tvg-logo="https://i.ibb.co/fVv8VgCW/Colecciones.jpg" group-title="•Nexus-Menú•", Peliculas
+#EXTINF:-1 tvg-id="Peliculas" tvg-name="Peliculas" tvg-logo="https://i.ibb.co/fVv8VgCW/Colecciones.jpg" group-title="•Nexus - Menú•", Peliculas
 https://raw.githubusercontent.com/ZeruG8/Nexus/main/Nexus/Peliculas/Peliculas.m3u
-#EXTINF:-1 tvg-id="Series" tvg-name="Series" tvg-logo="https://i.ibb.co/gFPNhRHS/Series.jpg" group-title="•Nexus-Menú•", Series
+#EXTINF:-1 tvg-id="Series" tvg-name="Series" tvg-logo="https://i.ibb.co/gFPNhRHS/Series.jpg" group-title="•Nexus - Menú•", Series
 https://raw.githubusercontent.com/ZeruG8/Nexus/main/Nexus/Series/Series.m3u
-#EXTINF:-1 tvg-id="Animes" tvg-name="Animes" tvg-logo="https://i.ibb.co/zWpcnxcr/Animes.jpg" group-title="•Nexus-Menú•", Animes
+#EXTINF:-1 tvg-id="Animes" tvg-name="Animes" tvg-logo="https://i.ibb.co/zWpcnxcr/Animes.jpg" group-title="•Nexus - Menú•", Animes
 https://raw.githubusercontent.com/ZeruG8/Nexus/main/Nexus/Animes/Animes.m3u
-#EXTINF:-1 tvg-id="Colecciones" tvg-name="Colecciones" tvg-logo="https://i.ibb.co/xS7BQpTC/Colecciones.jpg" group-title="•Nexus-Menú•", Colecciones
+#EXTINF:-1 tvg-id="Colecciones" tvg-name="Colecciones" tvg-logo="https://i.ibb.co/xS7BQpTC/Colecciones.jpg" group-title="•Nexus - Menú•", Colecciones
 https://raw.githubusercontent.com/ZeruG8/Nexus/main/Nexus/Colecciones/Colecciones.m3u
