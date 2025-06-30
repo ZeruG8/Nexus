@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="SquidGame_Temporada_1_E1" tvg-name="Squid Game Temporada_1 Episodio 1" tvg-logo="" group-title="Suspenso", Episodio 1
+http://example.com/squidgame/temporada_1_e1.m3u8
+#EXTINF:-1 tvg-id="SquidGame_Temporada_1_E2" tvg-name="Squid Game Temporada_1 Episodio 2" tvg-logo="" group-title="Suspenso", Episodio 2
+http://example.com/squidgame/temporada_1_e2.m3u8
+#EXTINF:-1 tvg-id="SquidGame_Temporada_1_E3" tvg-name="Squid Game Temporada_1 Episodio 3" tvg-logo="" group-title="Suspenso", Episodio 3
+http://example.com/squidgame/temporada_1_e3.m3u8
