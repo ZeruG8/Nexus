@@ -1,3 +1,47 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Ejemplo" tvg-logo="" group-title="Saga_Del_Infinito", Ejemplo
-http://example.com/Saga_Del_Infinito.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zUuqBb69V4f2l5H8HMpJL6WwFu9.jpg",Iron Man
+https://pixeldrain.com/api/file/PqxURbUD?download
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/c6cbZVksTFFTgWZtTGIuCDQXp7P.jpg",El Increíble Hulk
+https://pixeldrain.com/api/file/zboJwjHn?download
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/6WBeq4fCfn7AN0o21W9qNcRF2l9.jpg",Iron Man 2
+https://pixeldrain.com/api/file/QS9GLdpY?download
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/keWcMivbttKLCkjOfnlBbsRsxUa.jpg",Thor
+https://pixeldrain.com/api/file/mtKuZAgX?download
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/3lgtlptqkLa4uvsaAqtu9adeC8i.jpg",Capitán América: El Primer Vengador
+https://pixeldrain.com/api/file/FX6DWPT6?download
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/tyKKKSvjEgDVQ6vtm8vzL5Zx06c.jpg",Los Vengadores
+https://pixeldrain.com/api/file/DitPabcn?download
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ncFh4rIsPKwx1UMAYXHja8jtHlL.jpg",Iron Man 3
+https://pixeldrain.com/api/file/xdYyywPB?download
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/iY2E6b5huleYrM0NYKrb7a7lSGZ.jpg",Thor: El Mundo Oscuro
+https://pixeldrain.com/api/file/ekWp48kW?download
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/6QBRnyvJHD7slOlX6aukvMwcEu.jpg",Capitán América: El Soldado de Invierno
+https://pixeldrain.com/api/file/2NFyBkPH?download
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/9fRMLxaevSTY4geVlkLpySwIzWi.jpg",Guardianes de la Galaxia
+https://pixeldrain.com/api/file/bbZfQ5vU?download
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/71wSx6MQm8EbMNDi3vVaD8nD9SL.jpg",Vengadores: La Era de Ultrón
+https://pixeldrain.com/api/file/Fn11iiqu?download
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/rS97hUJ1otKTTripGwQ0ujbuIri.jpg",Ant-Man
+https://pixeldrain.com/api/file/jF625AE9?download
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/C8fSgqWNCdxzkidVzV0ROZBWLi.jpg",Capitán América: Civil War
+https://pixeldrain.com/api/file/JCVuXnsg?download
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/7WfK17BXE6szXlm4WOxfswgbdsL.jpg",Doctor Strange
+https://pixeldrain.com/api/file/ksvWDopR?download
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/bXG4gu9seqaNIYirWEkxWbXU7rE.jpg",Guardianes de la Galaxia Vol. 2
+https://pixeldrain.com/api/file/nswjy3Z4?download
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/uJ1GRzawjhXYTnckPNOfHsLi7uZ.jpg",Spider-Man: Homecoming
+https://pixeldrain.com/api/file/nGWHzMjV?download
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/jrF3WW4lJkIFtIY3nIyapZ7q0N8.jpg",Thor: Ragnarok
+https://pixeldrain.com/api/file/Pz37aL5y?download
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/elAEwrNbLqVHojxilHz6NLW9no3.jpg",Black Panther
+https://pixeldrain.com/api/file/Pz37aL5y?download
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ksBQ4oHQDdJwND8H90ay8CbMihU.jpg",Vengadores: Infinity War
+https://pixeldrain.com/api/file/N3ur7UGA?download
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/lwmCdtTvjnJZK79JKYkzkb0MFOP.jpg",Ant-Man y la Avispa
+https://pixeldrain.com/api/file/pcmMdau8?download
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/d3p5JuwN7dG0TvrN5h4ZY4tMOEX.jpg",Capitana Marvel
+https://pixeldrain.com/api/file/7YYwK1D5?download
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/br6krBFpaYmCSglLBWRuhui7tPc.jpg",Vengadores: Endgame
+https://pixeldrain.com/api/file/qAvCDxS7?download
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2jtQomYbEh1Y2oxR9Slnnv1hQlG.jpg",Spider-Man: Far From Home
+https://pixeldrain.com/api/file/nrTvojoT?download
