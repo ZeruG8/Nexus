@@ -1,3 +1,31 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Ejemplo" tvg-logo="" group-title="Saga_Del_Multiverso", Ejemplo
-http://example.com/Saga_Del_Multiverso.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/1SZ38eXVdqcSP8Qn0UZ4caH0HPo.jpg",Black Widow
+https://pixeldrain.com/api/file/ANjgVuV6?download
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZR8nCnsx/IMG-20250530-205014.png",Shang-Chi y la leyenda de los Diez Anillos
+https://pixeldrain.com/api/file/2yYy2edP?download
+#EXTINF:-1 tvg-logo="https://i.ibb.co/v6tcNmzt/IMG-20250531-011232.png",Eternals
+https://pixeldrain.com/api/file/EAx1syAv?download
+#EXTINF:-1 tvg-logo="https://i.ibb.co/W4M8Y8Sg/IMG-20250531-010332.png",Spider-Man: No Way Home
+https://pixeldrain.com/api/file/82LtL7Xd?download
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jvDn792K/2025-05-31-00-55-52-796.jpg",Doctor Strange en el multiverso de la locura
+https://pixeldrain.com/api/file/4nKUx8iX?download
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4gHWDa9hngo4RJy4BImChkMHooi.jpg",Thor: Amor y Trueno
+https://pixeldrain.com/api/file/TkVFb8yB?download
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/lJsANuSQPst6lmAbSK77O9eHf8o.jpg",Hombre lobo por la noche
+https://pixeldrain.com/api/file/ocmLVff2?download
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/1R1m0mua2q0QZf6t8VLgSlkjg4T.jpg",Black Panther: Wakanda Forever
+https://pixeldrain.com/api/file/PmSxHsto?download
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/mgxbKMMimhGnC8llv4kZ6ZKFY5u.jpg",Guardianes de la Galaxia: especial felices fiestas
+https://pixeldrain.com/api/file/ysrqpfqt?download
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Kcf8HGmc/Poster-Ant-Man-y-la-Avispa-Quantumania.jpg",Ant-Man y la Avispa: Quantumanía
+https://pixeldrain.com/api/file/EoGmJTDL?download
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KxNrVwpX/Poster-Guardianes-de-la-Galaxia-VL3.jpg",Guardianes de la Galaxia Vol. 3
+https://pixeldrain.com/api/file/ZW5B8ZFQ?download
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xxh6CFgwzYW29dSOsRjRBTpfqWT.jpg",The Marvels
+https://pixeldrain.com/api/file/LNS2uA4c?download
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/cy7tj2HuiO2ZXJzNOLQ9Y9O7C85.jpg",Deadpool & Wolverine
+https://pixeldrain.com/api/file/K6QTQbN8?download
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pSt13hw/Poster-Capitan-America-New-world.jpg",Capitán América: Un nuevo mundo 
+https://pixeldrain.com/api/file/N4RTT8tX?download
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/sz0Sq04BMBaUVQEp8b6wbtETXv1.jpg",Thunderbolts*
+https://pixeldrain.com/api/file/iQj6Cncd?download
