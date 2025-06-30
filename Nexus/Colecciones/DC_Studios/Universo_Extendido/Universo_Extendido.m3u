@@ -1,3 +1,31 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Ejemplo" tvg-logo="" group-title="Universo_Extendido", Ejemplo
-http://example.com/Universo_Extendido.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/5JW44QGgpEWx4aWXM0uVSi2xtrI.jpg",Superman: El Hombre de Acero
+https://pixeldrain.com/api/file/rJ5cgsFP?download
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ogl7euSNTWPpnB7nnq9E6RDTHNK.jpg",Batman vs Superman: El Origen de la Justicia
+https://pixeldrain.com/api/file/NjYYrhSa?download
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/3zKk2SPcqLr3TuLT6ofvevC8g3o.jpg",Suicide Squad 
+https://pixeldrain.com/api/file/XePeipGU?download
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ihfgpnaukTxph7gGPvJWz2hNzQs.jpg",Wonder Woman
+https://pixeldrain.com/api/file/yW5eybgS?download
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/A2AnLbZmaHyPA6oHjgri3KPjxoe.jpg",Liga de la Justicia
+https://pixeldrain.com/api/file/hYAAZGdH?download
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/3UBDxq9FGWVsbApU0Efc2cZReVY.jpg",Aquaman
+https://pixeldrain.com/api/file/cHbqQWYk?download
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/kIFthNFctw1ZYEIMer0dVnOln78.jpg",¡Shazam!
+https://pixeldrain.com/api/file/6FmBFj1D?download
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4GCqF17I2ST5M8iSkwh1jwqvi7F.jpg",Harley Quinn: Aves de Presa
+https://pixeldrain.com/api/file/xwxTpP8u?download
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/a9N5RO69zUSEbgx4v6AnLw7bf33.jpg",Wonder Woman 1984
+https://pixeldrain.com/api/file/zzafHXxE?download
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/khvlBBwGYu5Z9wNyZ0eLigcqZA4.jpg",El Escuadrón Suicida
+https://pixeldrain.com/api/file/CMd57eoH?download
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/3zXceNTtyj5FLjwQXuPvLYK5YYL.jpg",Black Adam
+https://pixeldrain.com/api/file/B97BMg8E?download
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xCxwaQeoIr4FcjlPgHfzog0x4B8.jpg",¡Shazam! La furia de los dioses
+https://pixeldrain.com/api/file/X1ku8s4N?download
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/35eGTVNtbRFCKvYpErgNCKWWx8s.jpg",The Flash
+https://pixeldrain.com/api/file/JbNrKYdU?download
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/t4e6D6ozKqC5vF5VhaHIyDhlWXf.jpg",Blue Beetle
+https://pixeldrain.com/api/file/vH9YYJDk?download
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/3OdMJBOGkp62e0DfY4ZykL9RuCP.jpg",Aquaman y el reino perdido
+https://pixeldrain.com/api/file/vH9YYJDk?download
