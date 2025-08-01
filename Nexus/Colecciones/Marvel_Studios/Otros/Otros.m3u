@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/lJsANuSQPst6lmAbSK77O9eHf8o.jpg",Hombre lobo por la noche
 https://pixeldrain.com/api/file/ocmLVff2?download
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/mgxbKMMimhGnC8llv4kZ6ZKFY5u.jpg",Guardianes de la Galaxia: especial felices fiestas
+https://pixeldrain.com/api/file/ysrqpfqt?download
