@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Peliculas" tvg-logo="" group-title="Transformers", Peliculas
+#EXTINF:-1 tvg-id="" tvg-name="Peliculas" tvg-logo="" group-title="•Transformers - Colección•", Peliculas
 https://raw.githubusercontent.com/ZeruG8/Nexus/main/Nexus/Colecciones/Transformers/Peliculas/Peliculas.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Series" tvg-logo="" group-title="Transformers", Series
+#EXTINF:-1 tvg-id="" tvg-name="Series" tvg-logo="" group-title="•Transformers -  Colección•", Series
 https://raw.githubusercontent.com/ZeruG8/Nexus/main/Nexus/Colecciones/Transformers/Series/Series.m3u
-#EXTINF:-1 tvg-id="" tvg-name="Otros" tvg-logo="" group-title="Transformers", Otros
+#EXTINF:-1 tvg-id="" tvg-name="Otros" tvg-logo="" group-title="•Transformers - Colección•", Otros
 https://raw.githubusercontent.com/ZeruG8/Nexus/main/Nexus/Colecciones/Transformers/Otros/Otros.m3u
