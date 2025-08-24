@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Ejemplo" tvg-logo="" group-title="Aventura", Ejemplo
-http://example.com/Aventura.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/mEvPSIwAD0Iloy2XkPyonBwVusp.jpg",El Conde de Montecristo
+https://pixeldrain.com/api/file/49LykZv3?download
