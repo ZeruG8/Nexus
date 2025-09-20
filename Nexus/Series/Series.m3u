@@ -5,6 +5,8 @@ https://raw.githubusercontent.com/ZeruG8/Nexus/main/Nexus/Series/Ciencia_Ficcion
 https://raw.githubusercontent.com/ZeruG8/Nexus/main/Nexus/Series/Aventura/Aventura.m3u
 #EXTINF:-1 tvg-id="Accion" tvg-name="Accion" tvg-logo="https://i.ibb.co/wFRHyT0C/Comandodecriaturas.jpg" group-title="Series", Comando de Criaturas
 https://raw.githubusercontent.com/ZeruG8/Nexus/main/Nexus/Series/Accion/Accion.m3u
+#EXTINF:-1 tvg-id="Terror" tvg-name="Terror" tvg-logo="https://image.tmdb.org/t/p/original/1FOGfw08DgazE7bJ3WjDGXbV2Ph.jpg" group-title="Series", Dragon Age: Absolution
+https://raw.githubusercontent.com/ZeruG8/Nexus/main/Nexus/Series/Terror/Terror.m3u
 #EXTINF:-1 tvg-id="Animacion" tvg-name="Animacion" tvg-logo="https://i.ibb.co/CsPc91x8/Efectos-Colaterales.jpg" group-title="Series", Efectos Colaterales
 https://raw.githubusercontent.com/ZeruG8/Nexus/main/Nexus/Series/Animacion/Animacion.m3u
 #EXTINF:-1 tvg-id="Fantasia" tvg-name="Fantasia" tvg-logo="https://image.tmdb.org/t/p/original/vqw1eAzYDVqqmXYrqDvo3HfqCro.jpg" group-title="Series", One Piece
@@ -19,5 +21,4 @@ https://raw.githubusercontent.com/ZeruG8/Nexus/main/Nexus/Series/Suspenso/Suspen
 https://raw.githubusercontent.com/ZeruG8/Nexus/main/Nexus/Series/Romance/Romance.m3u
 #EXTINF:-1 tvg-id="Documental" tvg-name="Documental" tvg-logo="https://image.tmdb.org/t/p/original/7q5W0meaOsGMG71Un3tghPqhi6g.jpg" group-title="Series", X-Men '97
 https://raw.githubusercontent.com/ZeruG8/Nexus/main/Nexus/Series/Documental/Documental.m3u
-#EXTINF:-1 tvg-id="Terror" tvg-name="Terror" tvg-logo="https://image.tmdb.org/t/p/original/1FOGfw08DgazE7bJ3WjDGXbV2Ph.jpg" group-title="Series", Dragon Age: Absolution
-https://raw.githubusercontent.com/ZeruG8/Nexus/main/Nexus/Series/Terror/Terror.m3u
+
