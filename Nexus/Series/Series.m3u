@@ -13,10 +13,10 @@ https://raw.githubusercontent.com/ZeruG8/Nexus/main/Nexus/Series/Fantasia/Fantas
 https://raw.githubusercontent.com/ZeruG8/Nexus/main/Nexus/Series/Comedia/Comedia.m3u
 #EXTINF:-1 tvg-id="Drama" tvg-name="Drama" tvg-logo="https://i.ibb.co/k66Rj7kL/Tombraider.jpg" group-title="Series", Tomb Raider: La leyenda de Lara Croft
 https://raw.githubusercontent.com/ZeruG8/Nexus/main/Nexus/Series/Drama/Drama.m3u
-#EXTINF:-1 tvg-id="Documental" tvg-name="Documental" tvg-logo="https://image.tmdb.org/t/p/original/7q5W0meaOsGMG71Un3tghPqhi6g.jpg" group-title="Series", X-Men '97
-https://raw.githubusercontent.com/ZeruG8/Nexus/main/Nexus/Series/Documental/Documental.m3u
 #EXTINF:-1 tvg-id="Romance" tvg-name="Romance" tvg-logo="https://image.tmdb.org/t/p/original/vMwURNAna6bwxtsBIZ7D5LBA6I4.jpg" group-title="Series", Watchmen
 https://raw.githubusercontent.com/ZeruG8/Nexus/main/Nexus/Series/Romance/Romance.m3u
+#EXTINF:-1 tvg-id="Documental" tvg-name="Documental" tvg-logo="https://image.tmdb.org/t/p/original/7q5W0meaOsGMG71Un3tghPqhi6g.jpg" group-title="Series", X-Men '97
+https://raw.githubusercontent.com/ZeruG8/Nexus/main/Nexus/Series/Documental/Documental.m3u
 #EXTINF:-1 tvg-id="Suspenso" tvg-name="Suspenso" tvg-logo="" group-title="Series", Suspenso
 https://raw.githubusercontent.com/ZeruG8/Nexus/main/Nexus/Series/Suspenso/Suspenso.m3u
 #EXTINF:-1 tvg-id="Terror" tvg-name="Terror" tvg-logo="" group-title="Series", Terror
