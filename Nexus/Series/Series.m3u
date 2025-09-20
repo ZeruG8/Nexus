@@ -9,7 +9,7 @@ https://raw.githubusercontent.com/ZeruG8/Nexus/main/Nexus/Series/Accion/Accion.m
 https://raw.githubusercontent.com/ZeruG8/Nexus/main/Nexus/Series/Animacion/Animacion.m3u
 #EXTINF:-1 tvg-id="Comedia" tvg-name="Comedia" tvg-logo="https://i.ibb.co/KxctzQd4/Resident-Evil.jpg" group-title="Series", Resident Evil
 https://raw.githubusercontent.com/ZeruG8/Nexus/main/Nexus/Series/Comedia/Comedia.m3u
-#EXTINF:-1 tvg-id="Documental" tvg-name="Documental" tvg-logo="" group-title="Series", Documental
+#EXTINF:-1 tvg-id="Documental" tvg-name="Documental" tvg-logo="https://image.tmdb.org/t/p/original/7q5W0meaOsGMG71Un3tghPqhi6g.jpg" group-title="Series", X-Men '97
 https://raw.githubusercontent.com/ZeruG8/Nexus/main/Nexus/Series/Documental/Documental.m3u
 #EXTINF:-1 tvg-id="Drama" tvg-name="Drama" tvg-logo="" group-title="Series", Drama
 https://raw.githubusercontent.com/ZeruG8/Nexus/main/Nexus/Series/Drama/Drama.m3u
